@@ -2,12 +2,14 @@
 - Project nhận diện chó, mèo sử dụng CNN (https://topdev.vn/blog/thuat-toan-cnn-convolutional-neural-network/)
 - Data được lấy từ Kaggle
 - Ngôn ngữ: python 
-- Thư viện sử dụng: TensorFlow, NumPy, SciPy
+- Thư viện sử dụng: TensorFlow, NumPy, SciPy, matplotlib
   'pip install tensorflow',
   'pip install numpy',
   'pip install scipy',
+  'pip install matplotlib',
   + TensorFlow: xây dựng và huấn luyện CNN
   + Numpy, Scipy: xử lý dữ liệu
+  + matplotlib: Vẽ đồ thị kết quả train 
 - Chạy chương trình:
   1. py train.py
      <img width="1296" height="464" alt="image" src="https://github.com/user-attachments/assets/5b2aeb7a-2874-4b62-a0bf-ccdfc424bcd0" />
